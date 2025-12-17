@@ -5,6 +5,10 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import styles from './index.module.css';
 
+/**
+ * HomepageHeader Component
+ * Displays the hero section with title, tagline, and call-to-action button
+ */
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
