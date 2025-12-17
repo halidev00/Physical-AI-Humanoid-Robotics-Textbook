@@ -7,7 +7,7 @@ surface: agent
 model: claude-sonnet-4-5
 feature: system-architecture
 branch: 001-system-architecture
-user: AsharibAli <asharibarain4@gmail.com>
+user: HafizAliAhmed
 command: /sp.specify
 labels: ["system-architecture", "specification", "textbook-platform", "rag-chatbot", "content-generation"]
 links:

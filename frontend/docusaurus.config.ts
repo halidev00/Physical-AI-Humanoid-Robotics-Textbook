@@ -8,13 +8,13 @@ const config: Config = {
   favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
-  url: 'https://asharibali.github.io',
+  url: 'https://hafizaliahmed.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/Physical-AI-Humanoid-Robotics-Textbook/',
 
   // GitHub pages deployment config.
-  organizationName: 'AsharibAli',
+  organizationName: 'HafizAliAhmed',
   projectName: 'Physical-AI-Humanoid-Robotics-Textbook',
 
   customFields: {

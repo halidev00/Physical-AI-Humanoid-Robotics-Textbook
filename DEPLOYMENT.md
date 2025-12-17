@@ -1,4 +1,4 @@
-# Deployment Guide
+   # Deployment Guide
 
 Deploy the Physical AI & Humanoid Robotics Textbook to production in 3 simple steps.
 
@@ -195,4 +195,4 @@ git push
 
 **🎉 Congratulations! Your textbook is now live!**
 
-For issues, check the [GitHub repository](https://github.com/AsharibAli/Physical-AI-Humanoid-Robotics-Textbook) or open an issue.
+For issues, check the [GitHub repository](https://github.com/HafizAliAhmed/Physical-AI-Humanoid-Robotics-Textbook) or open an issue.
